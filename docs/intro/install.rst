@@ -116,6 +116,9 @@ about this, ask your system administrator), create a new MySQL database
 for Elgg. You can create a MySQL database with any of the following
 tools:
 
+* [MySQL Workbench](http://www.mysql.com/products/workbench/)
+* [HeidiSQL](http://www.heidisql.com/)
+
 Make sure you add a user to the database with all privileges and record
 the database name, username and password. You will need this information
 when installing Elgg.
